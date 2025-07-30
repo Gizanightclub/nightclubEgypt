@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nightclubcairo.github.io/cairo-night-vip/sitemap.xml
