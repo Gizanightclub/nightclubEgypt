@@ -1,0 +1,9 @@
+{
+  "name": "Night Club VIP Cairo",
+  "short_name": "NightClubVIP",
+  "start_url": "/nightclubEgypt/nightclub_html.html",
+  "display": "standalone",
+  "background_color": "#1f4fd4",
+  "theme_color": "#1f4fd4",
+  "description": "نايت كلوب VIP في القاهرة - أفضل سهرة ليلية وحجز طاولات وعروض نجوم."
+}
